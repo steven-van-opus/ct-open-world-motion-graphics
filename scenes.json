@@ -1,0 +1,24 @@
+{
+  "chapter": {
+    "eyebrow": "CHAPTER 01",
+    "title": "After the Last Ferry",
+    "subtitle": "A NIGHT RUN THROUGH HARBOR WARD"
+  },
+  "tier": {
+    "title": "Getaway routes",
+    "ranks": [
+      ["S", "Floodgate Ramp"],
+      ["A", "Market Flyover"],
+      ["B", "Container Alley"]
+    ]
+  },
+  "map": {
+    "title": "Dock 09",
+    "subtitle": "SOUTH BASIN / MEET POINT"
+  },
+  "caption": {
+    "before": "The bridge",
+    "accent": "is up.",
+    "after": "Take the docks."
+  }
+}
